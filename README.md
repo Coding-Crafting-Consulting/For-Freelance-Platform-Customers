@@ -7,6 +7,13 @@
 - therefore not to be shown
 
 
+## This repo contains
+- the source code for our company website -> PRIVATE OF COURSE!
+- two demo apps on how to add Hotwire on existing Laravel student projects as explained here
+
+https://www.coding-crafting-consulting.com/our-expertise/consulting
+
+
 ## If you wish to have an idea of what we have already produced
 
 Check our website:
